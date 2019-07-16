@@ -1,8 +1,8 @@
 #!/bin/bash
 
-user=admin
-passwd=SDO8r0AsKo0A5
-host=10.66.146.59
+user=
+passwd=
+host=
 port=3306
 if [ $# -eq 1 ];then
     today=$1
