@@ -1,7 +1,6 @@
 #/bin/bash
 
 # nginx日志
-#log=/var/log/nginx/wdtcdn.gamedreamer.com.tw.log
 log="/var/log/nginx/mygjTokyoOpenapi.xnhdgame.access.log"
 # 访问列表
 whitelist=/etc/nginx/conf.d/whitelist.txt
